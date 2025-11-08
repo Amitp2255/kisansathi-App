@@ -1,2 +1,19 @@
-# kisansathi-App
-Kisan Saathi is your AI-powered farming assistant, designed to empower farmers with data-driven insights. Get personalized crop recommendations based on your soil and weather, and use your camera to instantly detect pests. Our mission is to increase your yield and profitability through accessible technology.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1TEJ0FhL8KhYUaDu8f5v1ignOLLLROudr
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
